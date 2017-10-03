@@ -1,4 +1,3 @@
-package Hundpaketet;
 
 public class Hund {
 
